@@ -16,6 +16,6 @@ let package = Package(
         .target(
             name: "MaterialRipple",
             dependencies: [],
-            path: "Sources"),
+            path: "src"),
     ]
 )
